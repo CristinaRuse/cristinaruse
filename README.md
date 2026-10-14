@@ -2,7 +2,7 @@
 
 ### 🌍 About Me
 
-Welcome to my GitHub! I am a **Petroleum Engineer with a geoscience background**, a deep interest in domain-specific software, and hands-on **QA**experience. I specialize in building data-driven tools that bridge petrophysics, geomechanics, and **Machine Learning** to advance reservoir characterization—empowering engineers to make better-informed decisions in drilling and hydraulic fracturing. My work aims to translate complex physical datasets and theoretical models into intuitive, high-performance applications. 
+Welcome to my GitHub! I am a **Petroleum Engineer with a geoscience background**, a deep interest in domain-specific software, and hands-on **QA** experience. I specialize in building data-driven tools that bridge petrophysics, geomechanics, and **Machine Learning** to advance reservoir characterization—empowering engineers to make better-informed decisions in drilling and hydraulic fracturing. My work aims to translate complex physical datasets and theoretical models into intuitive, high-performance applications. 
 
 ### 🛠️ Featured Projects
 
